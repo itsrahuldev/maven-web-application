@@ -28,6 +28,14 @@
 
 	</properties>
 
+	<repositories>
+	    <repository>
+		<id>nexus</id>
+		<name>hcl group repo</name>
+		<url>http://13.232.188.179:8081/repository/hcl-group-repo/</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
 		
 		<dependency>
